@@ -1,4 +1,5 @@
 //SituationA
+//宣告式(Declarative)：(link)
 
     public class TestService : ITestService
     {
