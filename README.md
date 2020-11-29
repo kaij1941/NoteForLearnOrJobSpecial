@@ -1,2 +1,2 @@
 # NoteForLearnOrJobSpecial
-紀錄特殊例外用喇
+紀錄特殊例外用法
