@@ -1,4 +1,5 @@
- //SituationB   
+ //SituationB 
+ //編程式(Imperative)：(lambda)
     public class TestService : ITestService
     {
         public async Task Test()
