@@ -24,3 +24,5 @@ Edit Global Configuration
 
 7.Web Essentials
 https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/208072/
+
+8.jquery code snippets
