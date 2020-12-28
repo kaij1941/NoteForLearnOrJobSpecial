@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>VB換行取代</title>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
+</head>
+
+<body>
+    <div>
+        <label>想要轉換的內容:</label><br />
+        <textarea name="" id="inputText" cols="75" rows="20" placeholder="請輸入文字.."></textarea>
+    </div>
+    <div>
+        <button type="button" id="btnTransfer" class="btn-success">
+            轉換
+        </button>
+    </div>
+    <div>
+        <label>轉換後的文字:</label><br />
+        <p id="transferedContent"></p>
+    </div>
+    <script>
+        $(function () {
+            $('#btnTransfer').click(function () {
+            var tranfer = $('#inputText').val().replace("vbCrLf", '<br/>').replace("vbCr", '<br/>')
+                $('#transferedContent').html(tranfer);
+        });
+        });
+
+    </script>
+</body>
+</html>
