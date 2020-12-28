@@ -11,6 +11,13 @@
 
 <body>
     <div>
+        <label>想要取代的文字:</label><br/>
+        A.<input type="text" id="BeChangedWords0"/> 被取代成 <input type="text" id="ChangedWords0" /><br />
+        B.<input type="text" id="BeChangedWords1"/> 被取代成 <input type="text" id="ChangedWords1" /><br />
+        C.<input type="text" id="BeChangedWords2"/> 被取代成 <input type="text" id="ChangedWords2" /><br />
+        D.<input type="text" id="BeChangedWords3"/> 被取代成 <input type="text" id="ChangedWords3" /><br />
+        D.<input type="text" id="BeChangedWords4"/> 被取代成 <input type="text" id="ChangedWords4" /><br />
+        D.<input type="text" id="BeChangedWords5"/> 被取代成 <input type="text" id="ChangedWords5" /><br />
         <label>想要轉換的內容:</label><br />
         <textarea name="" id="inputText" cols="75" rows="20" placeholder="請輸入文字.."></textarea>
     </div>
@@ -21,12 +28,23 @@
     </div>
     <div>
         <label>轉換後的文字:</label><br />
+        <p id="transferedContentWord"></p>
+        <label>結果:</label><br />
         <p id="transferedContent"></p>
     </div>
     <script>
         $(function () {
             $('#btnTransfer').click(function () {
-            var tranfer = $('#inputText').val().replace("vbCrLf", '<br/>').replace("vbCr", '<br/>')
+                var tranfer = $('#inputText').val()
+                    .replaceAll("vbCrLf", '<br/>')
+                    .replaceAll("vbCr", '<br/>')
+                    .replaceAll($('#BeChangedWords0').val(), $('#ChangedWords0').val())
+                    .replaceAll($('#BeChangedWords1').val(), $('#ChangedWords1').val())
+                    .replaceAll($('#BeChangedWords2').val(), $('#ChangedWords2').val())
+                    .replaceAll($('#BeChangedWords3').val(), $('#ChangedWords3').val())
+                    .replaceAll($('#BeChangedWords4').val(), $('#ChangedWords4').val())
+                    .replaceAll($('#BeChangedWords5').val(), $('#ChangedWords5').val())
+                $('#transferedContentWord').text(tranfer);                               
                 $('#transferedContent').html(tranfer);
         });
         });
