@@ -30,3 +30,6 @@ https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/208072/
 9.fine Code Coverage 單元測試檢查
 
 10.fluentassertions 單元測試工具
+
+11.AceJump 游標控制套件:指定游標出現地點 設定參考下方
+https://github.com/jsturtevant/ace-jump
