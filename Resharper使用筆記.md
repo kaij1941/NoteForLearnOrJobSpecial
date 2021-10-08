@@ -8,3 +8,5 @@
 6. ToDoExplore      : Ctrl + Alt + "." 							<br>
 7. 顯示多型         : Ctrl + "P"								<br>
 8. 更名             : (Ctrl +"R" )*2                            <br>
+9. 選取區塊         : Ctrl + Shift  + 方向鍵(左-/右+)				<br>
+10. 提取方法        : Ctrl + "R" 及 Ctrl +  "M"        <br>
