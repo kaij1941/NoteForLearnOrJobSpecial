@@ -32,10 +32,13 @@ https://codertw.com/%E5%89%8D%E7%AB%AF%E9%96%8B%E7%99%BC/208072/
 10.fluentassertions 單元測試工具
 
 11.AceJump 游標控制套件:指定游標出現地點 設定參考下方
-https://github.com/jsturtevant/ace-jump
+https://github.com/jsturtevant/ace-jump <br/>
+##### VS2022 推薦使用PeasyMotion(2022AceJump不支援) <br/>
 
 12.Resharper(付費)
 
 13.GhostDoc Cummunity 協助註解(快速建立註解)
 
 14.BetterComments 協助註解(建立特殊註解)
+
+15.
