@@ -12,5 +12,7 @@
 10. 提取方法        : Ctrl + "R" 及 Ctrl +  "M"        <br>
 
 參考文件:
-其一
+其一<br/>
 Ryan Lee:https://hackmd.io/@hbdoy/HJiSYd0_O
+其二<br/>
+JetBrain:https://www.jetbrains.com/zh-cn/resharper/features/coding_assistance.html
