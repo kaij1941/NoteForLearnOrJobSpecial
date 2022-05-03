@@ -10,3 +10,7 @@
 8. 更名             : (Ctrl +"R" )*2                            <br>
 9. 選取區塊         : Ctrl + Shift  + 方向鍵(左-/右+)				<br>
 10. 提取方法        : Ctrl + "R" 及 Ctrl +  "M"        <br>
+
+參考文件:
+其一
+Ryan Lee:https://hackmd.io/@hbdoy/HJiSYd0_O
