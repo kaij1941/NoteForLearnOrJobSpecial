@@ -52,4 +52,6 @@ https://github.com/jsturtevant/ace-jump <br/>
 1. CSSViewer  - 快速查看網頁CSS
 2. Wappalyzer - Technology profiler 可以確認網站使用技術
 3. Octotree - GitHub code tree 用在GitHub方便查看的樹狀圖
-
+4. Link to Text Fragment -可以產出有標記選取的網頁的網址
+保哥推薦說明:
+https://www.youtube.com/watch?v=pfySurXzOck
