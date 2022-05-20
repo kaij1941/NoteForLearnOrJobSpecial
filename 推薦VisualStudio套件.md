@@ -42,3 +42,5 @@ https://github.com/jsturtevant/ace-jump <br/>
 14.BetterComments 協助註解(建立特殊註解)
 
 15.
+# 一般推薦軟體 =>不限定visual studio
+Carnac – 顯示文字在螢幕上
