@@ -55,3 +55,5 @@ https://github.com/jsturtevant/ace-jump <br/>
 4. Link to Text Fragment -可以產出有標記選取的網頁的網址
 保哥推薦說明:
 https://www.youtube.com/watch?v=pfySurXzOck
+5. SEO META in 1 CLICK- Meta等設定查看 SEO查看
+6. JavaScript and CSS Code Beautifier-整理用
