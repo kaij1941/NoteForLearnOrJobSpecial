@@ -57,3 +57,5 @@ https://github.com/jsturtevant/ace-jump <br/>
 https://www.youtube.com/watch?v=pfySurXzOck
 5. SEO META in 1 CLICK- Meta等設定查看 SEO查看
 6. JavaScript and CSS Code Beautifier-整理用
+7. Vue.js devtools Vue開發輔助
+8. Link Redirect Trace 轉址及網路狀況確認
