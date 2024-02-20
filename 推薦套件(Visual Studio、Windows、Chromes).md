@@ -59,3 +59,4 @@ https://www.youtube.com/watch?v=pfySurXzOck
 6. JavaScript and CSS Code Beautifier-整理用
 7. Vue.js devtools Vue開發輔助
 8. Link Redirect Trace 轉址及網路狀況確認
+9. Redirect Path 轉址及網路狀況確認
