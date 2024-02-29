@@ -61,3 +61,5 @@ https://www.youtube.com/watch?v=pfySurXzOck
 8. Link Redirect Trace 轉址及網路狀況確認
 9. Redirect Path 轉址及網路狀況確認
 10. EditThisCookie - 如果您需要管理網站的Cookie，這個擴充套件提供了一個方便的界面來查看、新增、刪除和修改Cookie
+11. Viewport Resizer - 這個擴充套件提供了一種快速調整瀏覽器視口大小的方法，幫助您測試網站在不同解析度下的響應式設計。
+12. Web Developer - 這個擴充套件包含了一系列的網頁開發工具，如禁用JavaScript、查看頁面元素的邊框、管理Cookies等，對於開發和調試非常有幫助。
