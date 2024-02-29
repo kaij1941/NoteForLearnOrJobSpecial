@@ -60,3 +60,4 @@ https://www.youtube.com/watch?v=pfySurXzOck
 7. Vue.js devtools Vue開發輔助
 8. Link Redirect Trace 轉址及網路狀況確認
 9. Redirect Path 轉址及網路狀況確認
+10. EditThisCookie - 如果您需要管理網站的Cookie，這個擴充套件提供了一個方便的界面來查看、新增、刪除和修改Cookie
